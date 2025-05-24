@@ -6,7 +6,7 @@ Maven library project starter using maven wrapper, slf4j, assertj and java 21 (t
 Create a new project
 
 ```bash
-npx --yes degit daggerok/maven-slf4j-lib-starter-21 my-lib && cd $_
+npx --yes degit daggerok/maven-slf4j-lib-starter-java-21 my-lib && cd $_
 ```
 
 ## Setup Development Environment
